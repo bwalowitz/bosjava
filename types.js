@@ -36,13 +36,7 @@ let b = 46.3;
 
 const rand = Math.random()
 
-const style = document.createElement('style');
-
-style.innerHTML =
-    `body {
-padding: 400px;
-}
-`;
+document.getElementById(body).style.padding = 400px;
 
 const smarties = 20;
 const kids = 3;
