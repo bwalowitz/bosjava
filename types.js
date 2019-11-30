@@ -20,6 +20,8 @@ const hello = "hello my name is " + name + ". Nice to meet you.";
 
 const hello2 = `hello my name is ${name}. Nice to meet you.`;
 
+ */
+
 const html = `
 <div>
     <h2>${name} ${last}</h2>
@@ -27,7 +29,7 @@ const html = `
 </div>
 `;
 
-document.body.innerHTML = html; */
+document.body.innerHTML = html;
 
 let a = 100.5;
 let b = 46.3;
