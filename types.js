@@ -40,7 +40,7 @@ const css = `
 
 body {
 
-padding: 400px
+padding: 400px;
 }
 `
 document.body.addClass = css;
