@@ -1,5 +1,5 @@
 /* eslint-disable */
-/* 
+
 const name = 'Brandon';
 const middle = "scott";
 const last = `Walowitz`;
@@ -20,7 +20,7 @@ const hello = "hello my name is " + name + ". Nice to meet you.";
 
 const hello2 = `hello my name is ${name}. Nice to meet you.`;
 
- */
+
 
 const html = `
 <div>
